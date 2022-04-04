@@ -18,4 +18,9 @@ namespace demo_mailkit.Models
         public string Body { get; set; }
         public DateTimeOffset Date { get; set; }
     }
+
+    // References
+    // http://www.mimekit.net/docs/html/N_MailKit_Net_Imap.htm
+    // https://csharp.hotexamples.com/examples/MimeKit/MimeMessage/-/php-mimemessage-class-examples.html
+    // https://dotnetcoretutorials.com/2017/11/02/using-mailkit-send-receive-email-asp-net-core/
 }
