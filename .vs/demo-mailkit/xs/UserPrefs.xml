@@ -1,27 +1,31 @@
-﻿<Properties StartupConfiguration="{9A87913B-9131-4F70-83BA-3ABA8F349C32}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="demo-mailkit/Services/EmailService.cs">
+﻿<Properties StartupConfiguration="{9A87913B-9131-4F70-83BA-3ABA8F349C32}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo-mailkit/Controllers/EmailController.cs">
+    <Files>
+      <File FileName="demo-mailkit/Models/EmailMessage.cs" Line="15" Column="34" />
+      <File FileName="demo-mailkit/Models/EmailAddress.cs" />
+      <File FileName="demo-mailkit/Controllers/EmailController.cs" Line="1" Column="1" />
+      <File FileName="demo-mailkit/Services/EmailService.cs" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="demo-mailkit" expanded="True">
             <Node name="demo-mailkit" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="EmailController.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
               <Node name="Repositories" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="EmailService.cs" selected="True" />
-              </Node>
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.demo-mailkit PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.demo-mailkit PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
 </Properties>

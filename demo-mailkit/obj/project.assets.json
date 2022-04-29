@@ -1578,7 +1578,7 @@
       "outputPath": "/Users/kwameagyenim-boateng/Desktop/dotnet/demo-mailkit/demo-mailkit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kwameagyenim-boateng/.config/NuGet/NuGet.Config"
+        "/Users/kwameagyenim-boateng/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -1655,7 +1655,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

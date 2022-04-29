@@ -35,3 +35,4 @@
 /Users/kwameagyenim-boateng/Desktop/dotnet/demo-mailkit/demo-mailkit/obj/Debug/netcoreapp3.1/demo-mailkit.dll
 /Users/kwameagyenim-boateng/Desktop/dotnet/demo-mailkit/demo-mailkit/obj/Debug/netcoreapp3.1/demo-mailkit.pdb
 /Users/kwameagyenim-boateng/Desktop/dotnet/demo-mailkit/demo-mailkit/obj/Debug/netcoreapp3.1/demo-mailkit.genruntimeconfig.cache
+/Users/kwameagyenim-boateng/Desktop/dotnet/demo-mailkit/demo-mailkit/bin/Debug/netcoreapp3.1/demo-mailkit
